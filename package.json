@@ -1,0 +1,35 @@
+{
+  "name": "khnormal",
+  "version": "1.0.1",
+  "repository": "github:sillsdev/khmer-normalizer",
+  "homepage": "https://github.com/sillsdev/khmer-normalizer#readme",
+  "bugs": "https://github.com/sillsdev/khmer-normalizer/issues",
+  "main": "build/src/index.js",
+  "bin": {
+    "khnormal": "build/src/cmdline.js"
+  },
+  "type": "module",
+  "scripts": {
+    "build": "tsc -b",
+    "test": "cd test && tsc -b && cd .. && mocha"
+  },
+  "author": "Marc Durdin <marc@durdin.net>",
+  "contributors": ["Makara Sok", "Martin Hosken"],
+  "license": "MIT",
+  "description": "Normalize Khmer strings according to https://www.unicode.org/L2/L2022/22290-khmer-encoding.pdf",
+  "devDependencies": {
+    "@types/chai": "^4.3.17",
+    "@types/mocha": "^10.0.7",
+    "@types/node": "^22.0.2",
+    "chai": "^5.1.1",
+    "mocha": "^10.7.3",
+    "source-map-support": "^0.5.21",
+    "typescript": "^5.4.5"
+  },
+  "mocha": {
+    "spec": "build/test/**/*.test.js",
+    "require": [
+      "source-map-support/register"
+    ]
+  }
+}
