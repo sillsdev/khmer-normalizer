@@ -1,7 +1,17 @@
 # khmer-normalizer
+
 This module normalizes Khmer text according to the proposed normal encoding structure at https://www.unicode.org/L2/L2022/22290-khmer-encoding.pdf.
 
 It does not attempt to identify faulty text, merely to ensure that two strings that would have rendered the same are output as the same string.
+
+A live online version is available at https://convert.ភាសាខ្មែរ.com/ (see https://ភាសាខ្មែរ.com for related tools).
+
+## Example
+
+ខែ្មរ is corrected to ខ្មែរ:
+
+* Input: ខ `U+1781` ែ `U+17C2` ្ `U+17D2` ម `U+1798` រ `U+179A`
+* Output: ខ `U+1781` ្ `U+17D2` ម `U+1798` ែ `U+17C2` រ `U+179A`
 
 ## Installation
 

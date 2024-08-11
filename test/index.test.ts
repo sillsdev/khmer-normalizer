@@ -14,8 +14,6 @@ describe('khnormal', function () {
     const bad = readFileSync(makePathToFixture('bad.txt'), 'utf-8').replace(/\r(\n?)/g, '\n').split('\n');
     const good = readFileSync(makePathToFixture('good.txt'), 'utf-8').replace(/\r(\n?)/g, '\n').split('\n');
 
-    console.dir(bad);
-    console.dir(good);
     assert.equal(bad.length, good.length, `bad.length ${bad.length} should equal good.length ${good.length}`);
     for(let i = 0; i < bad.length; i++) {
       it(`should transform '${bad[i]}' to '${good[i]}'`, function() {
