@@ -1,0 +1,27 @@
+ជប៉ុន!	ជប៉ុន!	normal
+រៀន	រៀន	normal
+ហិរញ្ញវត្ថុ	ហិរញ្ញវត្ថុ	normal
+ព័ត៌មានReuters	ព័ត៌មានReuters	normal
+លើក​ទី២៩(COP29)	លើក​ទី២៩(COP29)	normal
+ចិត្ត	ចិត្ត		normal
+ឆ្នាំ២០០២ មក៕	ឆ្នាំ២០០២ មក៕		normal
+ផ្សេងៗ	ផ្សេងៗ		normal
+ទាក់	ទាក់		normal
+Mohamad Alamin	Mohamad Alamin		normal
+ប្រទេសយើង»។	ប្រទេសយើង»។		normal
+រដ្ឋ Sabah	រដ្ឋ Sabah		normal
+តាំង?	តាំង?		normal
+រយៈហេតុការណ៍	រយៈហេតុការណ៍		normal
+ខេត្ត-រាជធានី	ខេត្ត-រាជធានី		normal
+ចៅ	ចៅ		normal
+ទស្សនៈ	ទស្សនៈ		normal
+អាជា្ញធរ	អាជ្ញាធរ		not-normal
+បា្រស់	ប្រាស់		not-normal
+ចុះឈេា្មះ	ចុះឈ្មោះ		not-normal
+ឆ្ពេាះ	ឆ្ពោះ		not-normal
+កី្ដ	ក្តី		not-normal
+ទីនេះ	ទីនេះ		normal
+៥ទីតាំង	៥ទីតាំង		normal
+សាស្ដា្រចារ្យ	សាស្ត្រាចារ្យ		not-normal
+កែវលៀ្មត	កែវល្មៀត		not-normal
+គីទ្បូកា្រម៕	គីទ្បូក្រាម៕		broken
