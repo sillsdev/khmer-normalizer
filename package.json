@@ -11,7 +11,14 @@
   "bin": {
     "khnormal": "build/src/cmdline.js"
   },
-  "keywords": ["khmer","unicode","normalize","normalization","ខ្មែរ", "ភាសាខ្មែរ"],
+  "keywords": [
+    "khmer",
+    "unicode",
+    "normalize",
+    "normalization",
+    "ខ្មែរ",
+    "ភាសាខ្មែរ"
+  ],
   "type": "module",
   "scripts": {
     "build": "tsc -b",
@@ -27,7 +34,7 @@
   "devDependencies": {
     "@types/chai": "^4.3.17",
     "@types/mocha": "^10.0.7",
-    "@types/node": "^22.0.2",
+    "@types/node": "^22.12.0",
     "chai": "^5.1.1",
     "mocha": "^10.7.3",
     "source-map-support": "^0.5.21",

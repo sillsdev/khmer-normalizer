@@ -23,6 +23,14 @@ describe('khnormal', function () {
   });
 });
 
+
+const data = readFileSync(makePathToFixture('tests.txt'), 'utf-8').replace(/\r(\n?)/g, '\n').split('\n');
+for(const line of data) {
+  const [input, expectedOutput, comment] = line.split('\t');
+  const actualOutput = khnormal(input);
+  assert.equal(actualOutput, expectedOutput, `Expected '${input}' to be converted to '${expectedOutput}', but got '${actualOutput}'; ${comment}`);
+}
+
 /**
  * Builds a path to the fixture with the given path components.
  *

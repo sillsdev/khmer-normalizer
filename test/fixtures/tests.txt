@@ -1,0 +1,54 @@
+ជប៉ុន!	ជប៉ុន!	normal
+រៀន	រៀន	normal
+ហិរញ្ញវត្ថុ	ហិរញ្ញវត្ថុ	normal
+ព័ត៌មានReuters	ព័ត៌មានReuters	normal
+លើក​ទី២៩(COP29)	លើក​ទី២៩(COP29)	normal
+ចិត្ត	ចិត្ត	normal
+ឆ្នាំ២០០២ មក៕	ឆ្នាំ២០០២ មក៕	normal
+ផ្សេងៗ	ផ្សេងៗ	normal
+ទាក់	ទាក់	normal
+Mohamad Alamin	Mohamad Alamin	normal
+ប្រទេសយើង»។	ប្រទេសយើង»។	normal
+រដ្ឋ Sabah	រដ្ឋ Sabah	normal
+តាំង?	តាំង?	normal
+រយៈហេតុការណ៍	រយៈហេតុការណ៍	normal
+ខេត្ត-រាជធានី	ខេត្ត-រាជធានី	normal
+ចៅ	ចៅ	normal
+ទស្សនៈ	ទស្សនៈ	normal
+អាជា្ញធរ	អាជ្ញាធរ	not-normal
+បា្រស់	ប្រាស់	not-normal
+ចុះឈេា្មះ	ចុះឈ្មោះ	not-normal
+ឆ្ពេាះ	ឆ្ពោះ	not-normal
+កី្ដ	ក្តី	not-normal
+ទីនេះ	ទីនេះ	normal
+៥ទីតាំង	៥ទីតាំង	normal
+សាស្ដា្រចារ្យ	សាស្ត្រាចារ្យ	not-normal
+កែវលៀ្មត	កែវល្មៀត	not-normal
+គីទ្បូកា្រម៕	គីទ្បូក្រាម៕	broken
+ប៉ុណោ្ណះ	ប៉ុណ្ណោះ	not-normal
+ការបេ្ដជា្ញ;	ការប្តេជ្ញា;	not-normal
+ឃេារឃៅ	ឃោរឃៅ	not-normal
+ខែវិចិ្ឆកា។	ខែវិច្ឆិកា។	not-normal
+សង្រ្គាម (ERW)	សង្គ្រាម (ERW)	not-normal
+ថែ្លងថា៖	ថ្លែងថា៖	not-normal
+ចកុ្ខវិស័យ	ចក្ខុវិស័យ	not-normal
+ប៉ាសុីហ្វិក,	ប៉ាស៊ីហ្វិក,	not-normal
+សា្ថប័ន2	ស្ថាប័ន2	not-normal
+បុិនប្រសព្វ	ប៉ិនប្រសព្វ	not-normal
+វិបតិ្ដសាកល	វិបត្តិសាកល	not-normal
+ដូចេ្នាះ	ដូច្នោះ	not-normal
+េហតុការណ៍	េហតុការណ៍	broken
+ជំរុពា្ញ	ជំរុព្ញា	broken
+បញា្ជក់	បញ្ជាក់	not-normal
+សូ្ទឌីយូ៉	ស្ទូឌីយ៉ូ	not-normal
+កមា្សន្ត	កម្សាន្ត	not-normal
+ញះុញង់	ញុះញង់	not-normal
+ពឹ្រទ្្ធសភា	ព្រឹទ្្ធសភា	broken
+វិជា្ជាជីវៈ	វិជ្ជាាជីវៈ	broken
+បៀវត្សរ៍្	បៀវត្សរ្៍	broken
+សមា្គល់់	សម្គាល់់	broken
+របេះា	របោះ	not-normal
+រណប្ញទិ្ធ	រណប្ញទ្ធិ	broken
+បណុះ្តបណា្តល	បណ្តុះបណ្តាល	not-normal
+ពឹ្រត្ិតការណ៍	ព្រឹត្ិតការណ៍	broken
+ិសកា្ខសាាល	ិសក្ខាសាាល	broken
